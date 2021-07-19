@@ -1,0 +1,21 @@
+.text-color {
+    color: #263238;
+}
+
+.button-green {
+    background-color: #92e3a9;
+}
+
+.button-red {
+    color: white;
+    background-color: #ed6b6c;
+}
+
+.card {
+    background-color: #e1e5ed30;
+    border-radius: 30px;
+    padding: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 3px 3px 1px 0px #00000060;
+}

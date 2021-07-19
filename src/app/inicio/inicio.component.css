@@ -1,0 +1,44 @@
+.fs-54 {
+    font-size: 54pt;
+}
+
+.fs-18 {
+    font-size: 18pt;
+}
+
+.main-color{
+    background-color: #37474F;
+}
+
+.text-color {
+    color: #c270e7;
+}
+
+.button-green {
+    background-color: #c270e7;
+}
+
+.button-red {
+    color: white;
+    background-color: #ed6b6c;
+}
+
+.color-nav-postagem {
+    background-color: #bba5d8;
+}
+
+a.nav-link.active {
+    background-color: #c270e7;
+}
+
+.color-modal {
+    background-color: #57646e;
+}
+
+:placeholder-shown {
+    font-style: italic;
+}
+
+option.custom {
+    font-style: italic;
+}

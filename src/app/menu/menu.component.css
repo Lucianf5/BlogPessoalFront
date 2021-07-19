@@ -1,0 +1,11 @@
+.fs-16 {
+    font-size: 16pt;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+.main-color {
+    background-color: #263238;
+}

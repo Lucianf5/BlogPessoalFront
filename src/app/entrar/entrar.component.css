@@ -1,0 +1,46 @@
+#bg-img {
+    background-image: url(https://i.imgur.com/kN3VouF.jpg);
+
+    min-height: 100vh;
+
+    background-position: -80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-color {
+    background-color: #5c565c;
+}
+
+.color-green {
+    color: #c270e7
+}
+
+.button-green {
+    background-color: #92e3a9;
+}
+
+.card {
+    background-color: #36353530;
+    border-radius: 10px;
+    padding: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.custom-font {
+    font-size: 15pt;
+}
+
+.button-red {
+    color: white;
+    background-color: #ed6b6c;
+}
+
+.custom-font {
+    font-size: 15pt;
+}
+
+:placeholder-shown {
+    font-style: italic;
+}
